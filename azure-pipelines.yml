@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: DevOps
+pool: DevOps1
   
 
 steps:
